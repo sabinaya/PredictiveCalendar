@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PredictiveCalendar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cards">CardsActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+    <string name="title_activity_prediction">PredictionActivity</string>
+    <string name="str_driving">Driving</string>
+    <string name="str_bicycling">BiCycling</string>
+    <string name="str_walking">Walking</string>
+    <string name="title_activity_route">RouteActivity</string>
+    <!-- Put your own APP ID here -->
+    <string name="bd4eb9b20f32ffbc81e3f09bf22c3041">11111</string>
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+    <string name="place_not_found">Sorry, no weather data found.</string>
+    <string name="title_activity_weather">WeatherActivity</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search Places</string>
+    <string name="search_settings">Search Places</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_search_activity">SearchActivity</string>
+    <string name="str_atv_places">Search here</string>
+    <string name="title_activity_search_in_map">SearchInMap</string>
+
+</resources>

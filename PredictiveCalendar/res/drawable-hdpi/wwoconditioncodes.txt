@@ -1,0 +1,48 @@
+395*Moderate or heavy snow in area with thunder*true
+392*Patchy light snow in area with thunder*true
+389*Moderate or heavy rain in area with thunder*true
+386*Patchy light rain in area with thunder*true
+377*Moderate or heavy showers of ice pellets*true
+374*Light showers of ice pellets*true	
+371*Moderate or heavy snow showers*true
+368*Light snow showers*true
+365*Moderate or heavy sleet showers*true
+362*Light sleet showers*true	
+359*Torrential rain shower*true	
+356*Moderate or heavy rain shower*true	
+353*Light rain shower*true
+350*Ice pellets*true
+338*Heavy snow*true	
+335*Patchy heavy snow*true
+332*Moderate snow	*true
+329*Patchy moderate snow*true
+326*Light snow*true
+323*Patchy light snow*true
+320*Moderate or heavy sleet*true
+317*Light sleet*true
+314*Moderate or Heavy freezing rain*true
+311*Light freezing rain*true
+308*Heavy rain*true
+305*Heavy rain at times*true
+302*Moderate rain*true
+299*Moderate rain at times*true	
+296*Light rain*true	
+293*Patchy light rain*true	
+284*Heavy freezing drizzle	*true
+281*Freezing drizzle*true	
+266*Light drizzle*true	
+263*Patchy light drizzle*true	
+260*Freezing fog*true	
+248*Fog*true	
+230*Blizzard*true
+227*Blowing snow*true
+200*Thundery outbreaks in nearby*true	
+185*Patchy freezing drizzle nearby*true	
+182*Patchy sleet nearby*true
+179*Patchy snow nearby*true	
+176*Patchy rain nearby*true
+143*Mist*true	
+122*Overcast*true	
+119*Cloudy*true	
+116*Partly Cloudy*true
+113*Clear/Sunny*true	
